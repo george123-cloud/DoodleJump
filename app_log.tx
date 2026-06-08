@@ -1,0 +1,18 @@
+Doodle Jump Create PT – Improvement To-Do List
+High Priority
+☐ Make the beginning easier
+Slow down platform disappearance in the first few seconds.
+Add more stable platforms near the starting area.
+Give players time to get comfortable with the controls.
+☐ Reduce the game's starting pace
+Lower the initial scroll speed.
+Increase the time before difficult platforms appear.
+Create a smoother difficulty curve.
+Medium Priority
+☐ Improve jump smoothness
+Adjust jump height and gravity values.
+Make transitions between jumps feel less abrupt.
+Test different movement settings for better control.
+☐ Refine platform progression
+Gradually introduce breaking platforms instead of using them immediately.
+Increase platform spacing slowly as the game progresses.
